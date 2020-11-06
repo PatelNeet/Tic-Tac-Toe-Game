@@ -1,4 +1,3 @@
-//plz do not try to copy or send it to other......PLZ
 import java.util.Scanner;
 public class myTTT 
 {
